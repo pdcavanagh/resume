@@ -9,7 +9,9 @@
 2012, Purdue University (IUPUI), Indianapolis, IN, Minors: Mathematics, Computer Science
 
 ## EXPERIENCE
+
 ### Ongoing Software Development Projects
+
 * Developed client and server-side software for personal websites, web apps, and volunteer work 
 * JavaScript (Node.js, React, Angular), CSS3/Sass, HTML5 and various frameworks
 * Cloud-computing apps deployed on Heroku 
@@ -17,7 +19,9 @@
 * Experience consuming REST APIs
 
 ### Research Assistant and PhD Fellow
+
 #### August 2013–present, Indiana University
+
 * Developed linear programming models of Mars samples from the Mars Curiosity rover (MSL)
 * Numerical models written in Python (NumPy, SciPy, and PuLP)
 * Developed Python UI using PyQt 4
@@ -25,7 +29,9 @@
 * Revision control: Git
 
 ### Engineer
+
 #### July 2012–August 2013, Southwest Research Institute, San Antonio, TX 
+
 * Developed embedded C builds of spacecraft flight software for the Spectral Imaging of the Coronal Environment (SPICE) instrument
 for ESA’s Solar Orbiter mission
 * Maintained and extended Real-time operating system (RTOS) 
@@ -37,6 +43,7 @@ for ESA’s Solar Orbiter mission
 * Revision control: Mercurial
 
 ### Undergraduate Software Development
+
 * Analyzed planetary hyperspectral images using ENVI/IDL software 
 * Developed MATLAB image compression routines
 * 3D medical image segmentation using C++ and parallel programming framework OpenCL
