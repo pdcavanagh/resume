@@ -1,5 +1,5 @@
 # PATRICK D. CAVANAGH
-pdcavanagh@yahoo.com | www.patrickcavanagh.com | [LinkedIn](http://www.linkedin.com/in/pdcavanagh)
+pdcavanagh@yahoo.com | [www.patrickcavanagh.com](http://www.patrickcavanagh.com) | [LinkedIn](http://www.linkedin.com/in/pdcavanagh)
 
 ## EDUCATION
 **Ph.D. Geology**               
