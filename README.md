@@ -3,12 +3,21 @@
 
 ## EDUCATION
 **Ph.D. Geology**               
-2017 (expected), Indiana University, Bloomington, IN
+2018 (expected), Indiana University, Bloomington, IN
 
 **B.S. Computer Engineering with Distinction**      
 2012, Purdue University (IUPUI), Indianapolis, IN, Minors: Mathematics, Computer Science
 
 ## EXPERIENCE
+
+### Software Developer @ Newfields, Indianapolis, IN
+
+#### May 2017–present
+
+* Lead developer for the DiscoverNewfields.org website (CMS: concrete5, PHP, Javascript, CSS, HTML, MySQL)
+* Creating museum gallery interactives (web stack, C#, openFrameworks, openCV)
+* Linux server maintenance locally and on AWS (OS: Ubuntu LTS)
+* Revision control: Git
 
 ### Ongoing Software Development Projects
 
@@ -18,9 +27,9 @@
 * Knowledgeable of relational databases (SQL) and MongoDB
 * Experience consuming REST APIs
 
-### Research Assistant and PhD Fellow
+### Research Assistant and PhD Fellow @ Indiana University, Bloomington, IN
 
-#### August 2013–present, Indiana University
+#### August 2013–present 
 
 * Developed linear programming models of Mars samples from the Mars Curiosity rover (MSL)
 * Numerical models written in Python (NumPy, SciPy, and PuLP)
@@ -28,9 +37,9 @@
 * Participated in Mission Operations on MSL/CheMin team (Sequencing instrument telecommands and telemetry analysis) 
 * Revision control: Git
 
-### Engineer
+### Engineer @ Southwest Research Institute, San Antonio, TX
 
-#### July 2012–August 2013, Southwest Research Institute, San Antonio, TX 
+#### July 2012–August 2013 
 
 * Developed embedded C builds of spacecraft flight software for the Spectral Imaging of the Coronal Environment (SPICE) instrument
 for ESA’s Solar Orbiter mission
