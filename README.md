@@ -3,7 +3,7 @@
 
 ## EDUCATION
 **Ph.D. Geology**               
-2018 (expected), Indiana University, Bloomington, IN
+2021 (expected), Indiana University, Bloomington, IN
 
 **B.S. Computer Engineering with Distinction**      
 2012, Purdue University (IUPUI), Indianapolis, IN, Minors: Mathematics, Computer Science
