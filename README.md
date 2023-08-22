@@ -28,7 +28,7 @@
 
 ### Indiana University, Bloomington, IN
 
-- #### Research Assistant and PhD Fellow - August 2013–present 
+- #### Research Assistant and PhD Fellow - August 2013–December 2021 
   * Developed linear programming models of Mars samples from the Mars Curiosity rover (MSL)
   * Numerical models written in Python (NumPy, SciPy, and PuLP)
   * Developed Python UI using PyQt 4
